@@ -1,6 +1,6 @@
 AI-grad-project-heart-failure-predictor
 
-# Heart Failure Prediction Model
+# Heart Disease Prediction Model
 
     Project Overview
     This project aims to develop a machine learning model to predict the likelihood of heart failure in patients. 
