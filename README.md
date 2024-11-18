@@ -3,7 +3,8 @@ AI-grad-project-heart-failure-predictor
 # Heart Failure Prediction Model
 
     Project Overview
-    This project aims to develop a machine learning model to predict the likelihood of heart failure in patients. We utilize a comprehensive dataset from Kaggle containing various cardiovascular health indicators to train and evaluate our predictive model.
+    This project aims to develop a machine learning model to predict the likelihood of heart failure in patients. 
+    We utilize a comprehensive dataset from Kaggle containing various cardiovascular health indicators to train and evaluate our predictive model.
 
 # Dataset #
 
@@ -46,3 +47,6 @@ Dataset Source: Heart Failure Prediction Dataset on Kaggle
 
 # Model Performance
 (performance metrics of model: accuracy, precision, recall, and F1-score)
+
+# Contributors
+Saniya Seyal and Fatima Chowdhury
