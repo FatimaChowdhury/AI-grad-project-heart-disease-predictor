@@ -49,4 +49,4 @@ Dataset Source: Heart Failure Prediction Dataset on Kaggle
 (performance metrics of model: accuracy, precision, recall, and F1-score)
 
 # Contributors
-Saniya Seyal and Fatima Chowdhury
+Sania Seyal and Fatima Chowdhury
