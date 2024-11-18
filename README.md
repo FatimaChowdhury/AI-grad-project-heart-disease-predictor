@@ -1,6 +1,6 @@
 AI-grad-project-heart-failure-predictor
 
-# Heart Failure Prediction Model
+# Heart Disease Prediction Model by Sania Seyal and Fatima Chowdhury
 
     Project Overview
     This project aims to develop a machine learning model to predict the likelihood of heart failure in patients. 
@@ -49,4 +49,4 @@ Dataset Source: Heart Failure Prediction Dataset on Kaggle
 (performance metrics of model: accuracy, precision, recall, and F1-score)
 
 # Contributors
-Saniya Seyal and Fatima Chowdhury
+Sania Seyal and Fatima Chowdhury
